@@ -10,12 +10,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Deivson dos Santos Siqueira 
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Deivson dos Santos Siqueira (@Deivsonss)
+* David Lucas (@DavidLuccass)
+* Rauan Freitas (@Rauan-7)
+* Elon (@Elonsantana)
+* Felipe ribeiro (@Felipe-S-Ribeiro)
+* Jeferson (@Jefersonibfe)
+* kaique (@kaiquesemk)
+* Jeanbispo (@Jeanbispo-art)
 
 ## Orientador
 
